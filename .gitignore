@@ -1,0 +1,37 @@
+# Bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+*.egg
+
+# PyInstaller
+dist/
+build/
+*.spec.bak
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs & user data
+*.log
+~/.pdforge/
+.pdforge/
+
+# OS
+.DS_Store
+Thumbs.db
